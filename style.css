@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, grey, rgb(136, 68, 68));
+    font-family: cursive;
+    color: white;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid navy;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: yellowgreen;
+}
+table {
+    border: 2px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+table td{
+    padding: 5px;
+    border: 2px solid white;
+}
